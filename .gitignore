@@ -18,13 +18,16 @@ ehthumbs_vista.db
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+#FORTNITE
+/Video
+
 # Windows Installer files
 *.cab
 *.msi
 *.msix
 *.msm
 *.msp
-
+.mp4
 # Windows shortcuts
 *.lnk
 
